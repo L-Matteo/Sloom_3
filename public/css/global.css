@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+h1,
+h2,
+h3 {
+    color: #2E2E2E;
+}
+
+p,
+a, 
+label {
+    color: #555555;
+}
+
+#accueil {
+    background-color: #fffaf6;
+    padding: 0.1rem;
+    height: 100%;
+}
+
+nav {
+    height: 4rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: #fffaf6;
+}
+
+nav a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+#firstA {
+    font-weight: 500;
+    font-size: 2.2rem;
+    margin-left: 5rem;
+    color: #2E2E2E;
+}
+
+#otherA {
+    margin-left: 30.5rem;
+    font-size: 1.4rem;
+}
+
+.a {
+    margin-left: 3rem;
+    font-size: 1.4rem;
+}
+
+#otherA:hover,
+.a:hover {
+    border-bottom: 0.1rem solid;
+}

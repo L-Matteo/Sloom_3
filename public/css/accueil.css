@@ -1,0 +1,134 @@
+#accueil h1 {
+    margin: 7.5rem 0 0 9.8rem;
+    font-weight: 600;
+    font-size: 7rem;
+}
+
+#accueil p {
+    margin: 2rem 0 0 10rem;
+    font-size: 3rem;
+    line-height: 4rem;
+}
+
+#firstBtn {
+    margin-left: 10.3rem;
+    width: 14rem;
+}
+
+#secondBtn {
+    margin-left: 1rem;
+    width: 21rem;
+}
+
+#firstBtn,
+#secondBtn {
+    margin-top: 1.5rem;
+    height: 3rem;
+}
+
+#about {
+    height: auto;
+    background-color: #f4f6f6;
+    padding: 0.1rem;
+}
+
+#about h2 {
+    margin: 5rem 0 0 9rem;
+    font-size: 3rem;
+}
+
+.presentation {
+    display: flex;
+    margin: 2rem 0 0 5rem;
+}
+
+.card {
+    width: 22rem;
+    height: 20rem;
+    background-color: #fffaf6;
+    margin: 0 0 5rem 4.5rem;
+    border-color: #fffaf6;
+    border-radius: 0.9rem;
+}
+
+.card h3 {
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.card p {
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+}
+
+#Salles {
+    height: auto;
+    background-color: #fffaf6;
+    padding: 0.1rem;
+}
+
+#Salles h2 {
+    margin: 3rem 0 0 9rem;
+    font-size: 3rem;
+}
+
+#lesSalles {
+    display: flex;
+}
+
+.uneSalle {
+    width: 17.5rem;
+    height: 23rem;
+    border: 0.1rem solid #f4f6f6;
+    border-radius: 0.8rem;
+    margin: 5rem 0 5.5rem 10rem;
+}
+
+#img1,
+#img2,
+#img3 {
+    height: 10rem;
+    width: 17.5rem;
+    border-top-left-radius: 0.8rem;
+    border-top-right-radius: 0.8rem;
+}
+
+.uneSalle h3 {
+    margin: 1rem 0 0 1rem;
+}
+
+.uneSalle p {
+    font-size: 1.5rem;
+    margin: 1.5rem 0 0 1rem;
+}
+
+#btnSalles {
+    height: 3rem;
+    width: 17rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0 3rem 37.7rem;
+}
+
+footer {
+    height: 2rem;
+    background-color: #f4f6f6;
+    padding: 0.1rem;
+}
+
+#footerFirstA {
+    margin-left: 8rem;
+}
+
+footer a {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 1.4rem;
+    margin: 0.7rem 0 0 2.5rem;
+}
+
+footer a:hover {
+    border-bottom: 0.1rem solid;
+}

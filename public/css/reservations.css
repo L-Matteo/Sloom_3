@@ -1,0 +1,35 @@
+h2 {
+    font-size: 3.5rem;
+    margin: 4.5rem 0 0 23rem;
+}
+
+#VosReservations,
+#enAttente {
+    background-color: #f4f6f6;
+    width: 50rem;
+    height: auto;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    margin: 2rem 0 0 23rem;
+}
+
+table {
+    margin-top: 1.5rem;
+}
+
+tbody tr td a img {
+    width: 1.4rem;
+}
+
+tbody tr td a img:hover {
+    transform: scale(1.1);
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+.sectionA {
+    color: #0d6efd;
+    text-decoration: none;
+}

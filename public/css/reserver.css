@@ -1,0 +1,48 @@
+h2 {
+    font-size: 3rem;
+    margin: 6rem 0 0 32rem;
+}
+
+p {
+    font-size: 1.4rem;
+    margin: 2rem 0 2rem 32rem;
+}
+
+form {
+    margin-left: 32rem
+}
+
+form div{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 90%;
+}
+
+label {
+    margin-top: 1rem;
+    font-size: 1.4rem;
+} 
+
+input[type="text"], 
+input[type="datetime-local"],
+select {
+    margin: 1rem 0 0 2rem;
+    height: 2.5rem;
+    border-radius: 0.5rem; 
+    width: 20rem !important;
+}
+
+select {
+    margin-left: 8rem;
+}
+
+#fin {
+    margin-left: 4rem;
+}
+
+input[type="submit"]{
+    width: 32.2rem;
+    height: 2.5rem;
+    border-radius: 0.5rem; 
+    margin-top: 2rem;
+}

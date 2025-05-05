@@ -1,0 +1,53 @@
+h2 {
+    font-size: 3rem;
+    margin: 4rem 0 0 28.2rem;
+}
+
+form {
+    margin: 2.5rem 0 0 28.5rem;
+} 
+
+label {
+    font-size: 1.4rem;
+    margin-bottom: 0.3rem;
+}
+
+#labelFirstName {
+    margin-left: 15.9rem;
+}
+
+#labelMail {
+    margin-top: 0.5rem;
+}
+
+#labelTel {
+    margin-left: 10.9rem;
+}
+
+#lastName, 
+#firstName {
+    margin-bottom: 0.5rem;
+}
+
+input[type="text"] {
+    width: 18rem;
+    height: 2.5rem;
+    background-color: #f4f6f6;
+    border: none;
+    border-radius: 0.5rem;
+    margin-right: 1rem;
+}
+
+input[type="email"],
+input[type="password"] {
+    width: 37.3em;
+    height: 2.5rem;
+    background-color: #f4f6f6;
+    border: none;
+    border-radius: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+input[type="password"] {
+    margin-bottom: 1.5rem;
+}
