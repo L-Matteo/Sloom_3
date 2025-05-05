@@ -22,7 +22,7 @@ Sloom est une entreprise fictive de coworking. L'entreprise propose à ses clien
     - Sélectionnez l'option "Importer un projet existant" ou équivalent.
  3. Configurez les paramètres de connexion à la base de données dans *models/database.php*.
 #### Lancement :
- 1. Ouvrez votre navigateur et rendez-vous sur http://localhost/SloomWeb.
+ 1. Ouvrez votre navigateur et rendez-vous sur http://localhost/Sloom_3.
 
 
 
