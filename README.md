@@ -3,7 +3,7 @@
 
 ## 🌍Contexte
 
-Sloom est une entreprise fictive de coworking. L'entreprise propose à ses clients différentes salles pour travailler, chaques  salles ayants ses spécificités. Face à divers problèmes rencontrés, l'entreprise a décidée d'optimiser son processus de réservation des salles. Pour ce faire, une solution informatique sous la forme d'une application web a été mise en place. Cette application, destinée aux clients de l'entreprise, permet de réserver rapidement une salle. 
+Sloom est une entreprise fictive de coworking. L'entreprise propose à ses clients différentes salles pour travailler, chaques  salles ayants ses spécificités. Face à divers problèmes rencontrés, l'entreprise a décidée d'optimiser son processus de réservation des salles. Pour ce faire, une solution informatique sous la forme d'une application web a été mise en place. Cette application, destinée aux clients de l'entreprise, permet de réserver rapidement et facilement une salle. 
 
 ## 📋Prérequis
 - PHP
